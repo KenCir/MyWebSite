@@ -14,5 +14,6 @@ module.exports = {
             filename: 'join.html', // build時に出力されるファイル名
         },
     },
+    publicPath: '/MyWebSite/',
     outputDir: 'docs/', //これ
 };
